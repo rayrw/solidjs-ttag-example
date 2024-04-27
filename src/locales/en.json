@@ -1,1 +1,1 @@
-{"headers":{"plural-forms":"nplurals = 2; plural = (n != 1);"},"contexts":{"":{"Edit ${ appFile } and save to reload.":["Edit ${ appFile } and save to reload."],"Learn Solid":["Learn Solid"]}}}
+{"headers":{"plural-forms":"nplurals = 2; plural = (n != 1);"},"contexts":{"":{"Edit ${ appFile } and save to reload.":["Edit ${ appFile } and save to reload."],"Learn Solid":["Learn Solid"],"${ _ttagSignalProxy.count } thing":["${ _ttagSignalProxy.count } thing","${ _ttagSignalProxy.count } things"]}}}

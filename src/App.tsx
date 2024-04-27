@@ -2,6 +2,7 @@ import type { Component } from "solid-js";
 import { Show } from "solid-js";
 import { jt, t } from "ttag";
 import { loadLocale, localeSignal } from "./i18n";
+import { Counter } from "./Counter";
 
 import logo from "./logo.svg";
 import styles from "./App.module.css";
@@ -26,6 +27,8 @@ const App: Component = () => {
           >
             {t`Learn Solid`}
           </a>
+
+          <Counter />
 
           <select
             class={styles.i18n_select}

@@ -28,6 +28,17 @@
   font-size: calc(10px + 2vmin);
 }
 
+.button_group {
+  display: flex;
+  justify-content: center;
+  gap: 0.5em;
+  margin-top: 1em;
+}
+
+.button_group button {
+  font-size: calc(10px + 2vmin);
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
